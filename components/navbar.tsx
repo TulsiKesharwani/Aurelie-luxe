@@ -37,7 +37,7 @@ export function Navbar() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 lg:px-8">
         <Link href="/" className="flex items-center">
           <span className="font-serif text-2xl tracking-[0.2em] text-foreground">
-            HIRANYA LUXE
+            AURELIE
           </span>
         </Link>
 
